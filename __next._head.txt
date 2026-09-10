@@ -1,5 +1,5 @@
 1:"$Sreact.fragment"
-2:I[147,[],"ViewportBoundary"]
-3:I[147,[],"MetadataBoundary"]
+2:I[3807,[],"ViewportBoundary"]
+3:I[3807,[],"MetadataBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Yanting Zhao | Finance × Data × AI"}],["$","meta","1",{"name":"description","content":"Yanting Zhao’s interactive portfolio: finance, equity research, analytics, strategy and AI-enabled workflows."}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"gXZ7yf90UplKA8YUEodU_"}
+0:{"rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L3",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Yanting Zhao | AI Product × Data Operations"}],["$","meta","1",{"name":"description","content":"Yanting Zhao’s interactive portfolio: AI product design, multi-agent workflows, data and product operations, and equity research."}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"qGBuUMfQGUTrHyoVwzlAy"}
